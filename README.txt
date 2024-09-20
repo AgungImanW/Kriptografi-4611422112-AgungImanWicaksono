@@ -7,7 +7,6 @@ Fitur
 -Validasi panjang kunci (minimal 12 karakter).
 
 Penggunaan
-
 -Jalankan aplikasi.
 -Pilih metode cipher dari opsi yang tersedia (Vigenere, Playfair, Hill).
 -Masukkan kunci yang terdiri dari minimal 12 karakter.
